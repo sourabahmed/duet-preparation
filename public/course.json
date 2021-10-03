@@ -1,0 +1,30 @@
+[
+    {
+      "id": "6159ef1ade4c3306dfd8470b",
+      "name": "Short time course",
+      "duration": "3",
+      "fee": "$25",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8RqDwjMjlT236Fv5yPyBPdOM5X8STLebEQ&usqp=CAU"
+    },
+    {
+      "id": "6159ef1a9fc31890c00ad0b9",
+      "name": "Moderate course",
+      "duration": "6",
+      "fee": "$50",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBFYjiRs5FUyBPPG7mZytM8SnqOaDny0mNRQ&usqp=CAU"
+    },
+    {
+      "id": "6159ef1a5df77cba2ed50d3b",
+      "name": "Advanced course",
+      "duration": "9 ",
+      "fee": "$75",
+      "picture": "https://st.depositphotos.com/1000291/3041/i/950/depositphotos_30414567-stock-photo-adult-electrician-engineer-worker.jpg"
+    },
+    {
+      "id": "6159ef1a7dc95c3289c2484b",
+      "name": "Long time course",
+      "duration": "1 year",
+      "fee": "$100",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddEXMAThbPBcfzBlchLb8LqImG5JFPbLkPw&usqp=CAU"
+    }
+  ]
