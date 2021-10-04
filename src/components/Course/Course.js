@@ -13,7 +13,7 @@ const Course = (props) => {
                     <Card.Text>
                         This is {duration} months DUET prepararion course for those people who are completed 7th semester of Diploma in Engineering. Our Course fee Only <span className="text-danger">{fee}</span>
                     </Card.Text>
-                    <Button variant="danger">
+                    <Button variant="dark">
                         <NavLink
                             className="m-3"
                             to="/contact"
