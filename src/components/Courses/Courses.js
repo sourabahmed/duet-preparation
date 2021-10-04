@@ -4,7 +4,6 @@ import Course from '../Course/Course';
 
 const Courses = () => {
     const [courses, setCourses] = useState([]);
-    console.log(courses)
     useEffect(() => {
         fetch("./course.json")
             .then(res => res.json())
